@@ -1,5 +1,4 @@
-# Tutorial
-# http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
+
 # 1 - Import library
 import pygame
 from pygame.locals import *
