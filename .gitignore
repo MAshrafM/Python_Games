@@ -1,0 +1,11 @@
+#ignore resources
+Bunnies_and_Badgers/resources
+
+#ignore csv test
+matplotlib_test/*.csv
+
+#ignore build
+Racey/build
+
+#ignore image
+*/*.png
